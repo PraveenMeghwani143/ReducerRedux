@@ -1,0 +1,6 @@
+module Pods_ReduxNew_ReduxNewTests {
+  umbrella header "Pods-ReduxNew-ReduxNewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
